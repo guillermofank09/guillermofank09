@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @guillermofank09
-- 👀 I’m interested in learning new technologies and improve my developer skills
-- 🌱 I’m currently learning different Javascript frameworks
+- 👀 I’m interested in learning new technologies and improving my developer skills
+- 🌱 I’m currently working and learning more about different Javascript frameworks as React, React Native and Node Js.
 - 💞️ I’m looking to collaborate on Javascript world.
 
 <!---
